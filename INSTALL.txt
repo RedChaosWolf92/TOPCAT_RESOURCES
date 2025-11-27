@@ -1,0 +1,19 @@
+INSTALLATION INSTRUCTIONS
+========================
+
+1. Backup existing launcher:
+   sudo cp /usr/local/bin/topcat /usr/local/bin/topcat.backup
+
+2. Install smart launcher:
+   sudo cp topcat-smart-launcher.sh /usr/local/bin/topcat
+   sudo chmod +x /usr/local/bin/topcat
+
+3. Test:
+   topcat --doctor    # Run diagnostics
+   topcat             # Launch normally
+
+UNINSTALL
+=========
+   sudo cp /usr/local/bin/topcat.backup /usr/local/bin/topcat
+
+The script is MIT licensed and free to use, modify, or integrate.
