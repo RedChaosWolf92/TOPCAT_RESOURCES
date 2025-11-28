@@ -414,10 +414,6 @@ Document any platform-specific changes in your pull request.
 - [OpenJDK Installation](https://openjdk.org/install/)
 - [Java on Ubuntu Tutorial](https://ubuntu.com/tutorials/install-jre)
 
-### Related Projects
-- [Astronomy Starter Kit](https://github.com/YOUR_USERNAME/astronomy-starter-kit) - Complete astronomy development environment
-- [Python Foundations for Astronomy](https://github.com/YOUR_USERNAME/python-astronomy-foundations) - Python toolkit for astronomy
-
 ---
 
 ## License
