@@ -93,7 +93,7 @@ Download and install the launcher script directly:
 
 ```bash
 # Download the launcher
-wget https://raw.githubusercontent.com/YOUR_USERNAME/topcat-smart-launcher/main/topcat_integrated_launcher.sh
+wget https://github.com/RedChaosWolf92/TOPCAT_RESOURCES/blob/main/topcat_integrated_launcher.sh
 
 # Install to system path
 sudo mv topcat_integrated_launcher.sh /usr/local/bin/topcat
@@ -111,7 +111,7 @@ If you prefer to inspect the script first:
 ```bash
 # Download to your home directory
 cd ~
-wget https://raw.githubusercontent.com/YOUR_USERNAME/topcat-smart-launcher/main/topcat_integrated_launcher.sh
+wget https://github.com/RedChaosWolf92/TOPCAT_RESOURCES/blob/main/topcat_integrated_launcher.sh
 
 # Review the script
 cat topcat_integrated_launcher.sh
